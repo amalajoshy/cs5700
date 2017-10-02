@@ -1,7 +1,4 @@
-# cs5700
-
-
-# READ ME - Assignment 1
+READ ME - Assignment 1
 
 
 
